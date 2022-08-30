@@ -1,0 +1,47 @@
+h1{
+  color:green;
+  width:20%;
+  text-align:center;
+  font-family:"Rubik Beastly",Times New       Roman;
+  letter-spacing:3.5px;
+  font-size:30px;
+  border-color:green;
+  		border-color: white;
+		border-width:5px;
+  border-style: dotted;
+  border-radius:20%;
+  background-color:yellow;
+}
+
+label{
+  padding:5px;
+  margin:5px;
+  background-color:gray;
+  display:block;
+  border-radius:40%;
+  text-align:center;
+}
+
+input{
+  padding:5px;
+  margin:10px;
+  margin-left:40px;
+}
+
+[type=submit]{
+  background-color:green;
+  text-align:centre;
+  }
+
+div{
+  width:20%;
+  background-color:yellow;
+  		border-color: white;
+		border-width:5px;
+border-style: dotted;
+}
+
+select{
+  margin-left:40px;
+  padding:5px;
+}
